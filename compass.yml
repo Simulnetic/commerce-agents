@@ -1,0 +1,16 @@
+name: commerce-agents
+id: ari:cloud:compass:d926c5b6-8500-4cc0-ae8b-e0b5c4afa665:component/c0bc404a-5512-475b-abf0-d55726924092/83a349bc-6f9b-4137-b359-30b12ec90e0d
+description: Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Simulnetic/commerce-agents
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
